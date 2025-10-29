@@ -80,6 +80,6 @@ Student_Management_System/
 ```
 
 ## **👨‍💻 Author**
-Kartik Patel
+Dhaval Pandav
 
 >>>>>>> 55d888d (Initial commit)
